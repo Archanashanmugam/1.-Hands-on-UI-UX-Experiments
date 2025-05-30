@@ -1,7 +1,7 @@
 # 1.-Hands-on-UI-UX-Experiments
-name : javan rufus j
+name : ARCHANA S
 
-reg no: 212224230104
+reg no: 212222040010
 
 # AIM:
 
